@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>LeoWon</title>
   
-  
+  <subtitle>lw</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://leowon.cn/"/>
@@ -10,7 +10,7 @@
   <id>http://leowon.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Leo Won</name>
     
   </author>
   
